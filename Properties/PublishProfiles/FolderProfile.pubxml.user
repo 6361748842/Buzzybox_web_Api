@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>E:\Sushil Folder\Buzzybox public file\BuzzyBox_Web_Api\bin\Release\net6.0\publish\</_PublishTargetUrl>
+    <History>True|2023-01-17T07:05:19.8133506Z;True|2023-01-17T12:35:01.5283958+05:30;True|2023-01-17T12:17:25.5414965+05:30;True|2023-01-17T10:34:50.8770576+05:30;True|2023-01-17T10:29:59.3075257+05:30;True|2023-01-16T17:43:27.6540086+05:30;True|2023-01-16T16:36:35.4264380+05:30;True|2023-01-12T19:37:20.1796194+05:30;True|2023-01-12T17:33:21.3078098+05:30;True|2023-01-12T15:23:53.5839093+05:30;True|2023-01-10T14:38:35.4079791+05:30;True|2023-01-08T19:20:51.5265435+05:30;True|2023-01-07T17:50:49.7201401+05:30;True|2023-01-04T10:26:48.7907805+05:30;True|2023-01-03T18:21:48.0919095+05:30;True|2023-01-03T11:16:41.5150115+05:30;True|2023-01-03T10:02:33.0031415+05:30;True|2023-01-02T20:34:38.2747965+05:30;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
